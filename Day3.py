@@ -24,5 +24,6 @@ elif is_cold:
 else:
     print("it's a lovely day")
 print("enjoy your day")
+
 #---------------------------end of day 3-------------------------
 #-------------------------date 1-june-2024--------------------------
