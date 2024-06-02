@@ -12,7 +12,6 @@ print(f"Down Payment: ${down_payment}")
 
 #------------------------------------
 #logical operators
-
 #if applicant has high income AND good credit Eligible for loan
 
 has_high_income = True

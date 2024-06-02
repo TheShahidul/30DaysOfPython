@@ -12,7 +12,7 @@ if is_hot:
     print("it's a hot day")
 print("enjoy your day")
 print('----------------------')
-
+#---------------------------------------
 is_hot = False #change the value to false and see the difference
 is_cold = True # change to false and see the difference
 if is_hot:

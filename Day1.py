@@ -63,8 +63,6 @@ print(another)
 name = 'Jennifer'
 print(name[1:-1])
 
-# ----------------
-#
 # ------------------------------end of day 1----------------------
 # https://youtu.be/_uQrJ0TkZlc?si=yG-ntCiZVgKV6fGQ&t=2260
 # ------------------------------28-May-2024--------------------------
